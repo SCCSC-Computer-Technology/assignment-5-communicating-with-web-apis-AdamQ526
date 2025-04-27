@@ -1,0 +1,6 @@
+I tried unzipping the folder and i got an error that it could not copy some files.
+
+File Name: VSIDX File.
+  - Error: 0x80010135 Path too long.
+
+So, without the API i wasn't able to test the API, but based on the Web-App end, everything looked fine.
